@@ -30,5 +30,4 @@
 ---
 
 ## 📊 Quick Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akiko0210&layout=compact&hide=html,css)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akiko0210&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akiko0210&layout=compact&hide=html,css)
