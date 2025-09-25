@@ -1,9 +1,13 @@
 # Hi, I'm Amar Ayurzana 👋
 
 🎓 **CS @ San Jose State University (2027)**
-💻 **Passionate about:** Making modern interactive websites & apps • Solving real-life problems with top efficiency using Data Structures and Algorithms.
+
+💻 **Passionate about:** Making modern interactive websites & apps • Solving real-life problems with top efficiency using Data Structures and Algorithms
+
 🌟 **Looking for:** Summer 2026 software engineering internship  
-📫 **Reach me:** amarjargal.ayurzana@sjsu.edu · [LinkedIn](https://www.linkedin.com/in/akiko643/) · [Resume](https://drive.google.com/file/d/1BhztFjfIAu5Mj1MyFhpiP7Fs48YMI_WM/view?usp=sharing)
+
+📫 **Reach me:** amarjargal.ayurzana@sjsu.edu · [LinkedIn](https://www.linkedin.com/in/akiko643/) · [Resume]
+(https://drive.google.com/file/d/1BhztFjfIAu5Mj1MyFhpiP7Fs48YMI_WM/view?usp=sharing)
 
 ---
 
